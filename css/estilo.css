@@ -2,14 +2,14 @@
 	font-size: 15pt;
 	width: 80%;
 	box-sizing: border-box;
-    padding: 0;
-    border: 0;
+	padding: 0;
+	border: 0;
 }
-h1{
-    font-size: 20pt;
-    color: crimson;
-    text-decoration: overline underline;
-    text-align: center;
+h1 {
+	font-size: 20pt;
+	color: crimson;
+	text-decoration: overline underline;
+	text-align: center;
 }
 .contenedor {
 	display: flex;
@@ -20,5 +20,8 @@ h1{
 	text-align: justify;
 	border: 2px solid black;
 	padding: 5%;
-    border: 5%;
+	border: 5%;
+}
+p {
+	border: 1px crimson solid;
 }
